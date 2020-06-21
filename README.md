@@ -56,7 +56,6 @@ void quickSort(int arr[], int low, int high)
     } 
 } 
   
-/* Function to print an array */
 void printArray(int arr[], int size) 
 { 
     int i; 
@@ -65,7 +64,6 @@ void printArray(int arr[], int size)
     printf("n"); 
 } 
   
-// Driver program to test above functions 
 int main() 
 { 
     int arr[] = {10, 7, 8, 9, 1, 5}; 
